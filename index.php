@@ -8,6 +8,7 @@
         <?php
             echo 'ololo';
             echo '  haha';
+            echo '  :D';
         ?>
     </body>
 </html>
